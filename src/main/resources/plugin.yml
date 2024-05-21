@@ -1,0 +1,4 @@
+name: RegionBlocker
+version: '${project.version}'
+main: grafitely.regionblocker.RegionBlocker
+api-version: '1.20'
