@@ -7,6 +7,7 @@ Region Blocker allows you to choose countries that you wish to block from your m
 
 ## Configuration:
 To block a country add the 2 digit country code in the config.yml generated upon server start.
+2 digit country codes can be found here: https://www.iban.com/country-codes
 
 ## Installation:
 - Install the jar from [spigot](https://www.spigotmc.org/resources/region-blocker.116885/)
